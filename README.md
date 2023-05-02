@@ -1,4 +1,4 @@
-# EasyOCR
+# Optical Character Recognition [EasyOCR]
 
 
 OCR, also known as Optical Character Recognition allows you to 'recognise' text from within a document, whether it be an image, a PDF or a table.
